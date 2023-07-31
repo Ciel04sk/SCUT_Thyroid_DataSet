@@ -9,3 +9,7 @@ problem of thyroid localization. The orientation of the ultra- sound probe is ad
 By using FARUS, both transverse and longitudinal scanning of thyroid tissue can be performed, as well as real-time 
 thyroid nodule detection with arti- ficial intelligence (AI) algorithms. Experimental results on human participants 
 demonstrate that FARUS can perform high-quality ultra- sound scans in comparison with manual scans obtained by clinicians.
+
+## Dataset
+1. Thyroid Gland Dataset
+2. Thyroid Nodule Dataset
