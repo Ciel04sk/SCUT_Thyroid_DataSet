@@ -18,6 +18,7 @@ demonstrate that FARUS can perform high-quality ultra- sound scans in comparison
 
 ## Cite
 if you find this work useful in your research or use this dataset in your work, please consider citing the following paper:
+
 @article{su2023fully,
   title={A Fully Autonomous Robotic Ultrasound System for Thyroid Scanning},
   author={Su, Kang and Liu, Jingwei and Ren, Xiaoqi and Huo, Yingxiang and Du, Guanglong and Zhao, Wei and Wang, Xueqian and Liang, Bin and Li, Di and Liu, Peter},
