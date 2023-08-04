@@ -14,6 +14,7 @@ demonstrate that FARUS can perform high-quality ultra- sound scans in comparison
 1. Thyroid Gland Dataset
    The compressed dataset is also available via https://drive.google.com/file/d/1CrghGB2dpLWcKSQQBzFGRXc6xI3WloEj/view?usp=sharing
 2. Thyroid Nodule Dataset
+
    It will be released shortly
 
 ## Cite
