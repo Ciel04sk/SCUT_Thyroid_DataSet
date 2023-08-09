@@ -1,5 +1,5 @@
 # SCUT_Thyroid_DataSet
-## A Fully Autonomous Robotic Ultrasound System for Thyroid Scanning
+## A Fully Autonomous Robotic Ultrasound System (FARUS) for Thyroid Scanning
 ### Introduction: 
 The current thyroid ultrasound relies heavily on the experience of the sonographer and radiologist,
 which would be physically and cog- nitively exhausting. Here we report a novel fully autonomous robotic ultrasound 
@@ -11,9 +11,13 @@ thyroid nodule detection with arti- ficial intelligence (AI) algorithms. Experim
 demonstrate that FARUS can perform high-quality ultra- sound scans in comparison with manual scans obtained by clinicians.
 
 ## Dataset
-1. Thyroid Gland Dataset
+1. Thyroid Gland Ultrasound Dataset
+   This dataset comprises 6k thyroid-gland images and masks obtained from a cohort of 70 young college students, utilizing the FARUS system with handheld probes for data collection.
    The compressed dataset is also available via https://drive.google.com/file/d/1CrghGB2dpLWcKSQQBzFGRXc6xI3WloEj/view?usp=sharing
-2. Thyroid Nodule Dataset
+   This dataset comprises 2k thyroid-gland images and masks obtained from a cohort of 30 elderly individuals, utilizing the FARUS system with portable probes for data collection.
+
+   
+3. Thyroid Nodule Dataset
 
    It will be released shortly
 
