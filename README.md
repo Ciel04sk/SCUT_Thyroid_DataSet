@@ -14,7 +14,9 @@ demonstrate that FARUS can perform high-quality ultra- sound scans in comparison
 1. Thyroid Gland Ultrasound Dataset
    This dataset comprises 6k thyroid-gland images and masks obtained from a cohort of 70 young college students, utilizing the FARUS system with handheld probes for data collection.
    The compressed dataset is also available via https://drive.google.com/file/d/1CrghGB2dpLWcKSQQBzFGRXc6xI3WloEj/view?usp=sharing
+   
    This dataset comprises 2k thyroid-gland images and masks obtained from a cohort of 30 elderly individuals, utilizing the FARUS system with portable probes for data collection.
+   https://drive.google.com/file/d/1TG8QrNmjWkvE6euUzaxOcgbqNikcjd3h/view?usp=sharing
 
    
 3. Thyroid Nodule Dataset
