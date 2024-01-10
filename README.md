@@ -21,7 +21,9 @@ Dataset:
 
 ## 4. Instructions for User
 
-## 5. Citation
+## 5. Citations
+If you find our work useful or our work gives you any insights, please cite:
+Su, K., Liu, J., Ren, X., Huo, Y., Du, G., Zhao, W., ... & Liu, P. (2023). A Fully Autonomous Robotic Ultrasound System for Thyroid Scanning.
 
 ## 6. Lisence
 MIT License
