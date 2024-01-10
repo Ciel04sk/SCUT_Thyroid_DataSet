@@ -18,10 +18,9 @@ This code requirements are stated at requirements.txt
 
 ## 3. Demo
 ### 1. Dataset introduction
-With the approval of the ethical review committee, we recruited of several groups of volunteers. The first group predominantly comprised college
-students, and we manually collected thyroid ultrasound data from 66 volunteers within this group using handheld US equipment. Simultaneously, we
-employed FARUS system to autonomously scan 70 volunteers. To address the limitations of handheld US equipment in accurately diagnosing nodules, we
-opted to employ portable US equipment to gather additional sets of data.
+With the approval of the ethical review committee, we recruited of several groups of volunteers. Firstly, we employed FARUS system to autonomously scan 
+70 volunteers (SCUTG6K). To address the limitations of handheld US equipment in accurately diagnosing nodules, we opted to employ portable US equipment 
+to gather additional sets of data (SCUTG2K).
 #### Thyroid Dataset(SCUTG8K)
 SCUTG8K can be obtained via https://drive.google.com/drive/folders/1z-n69dk_ANT3ZstAhpjBA2SFz2DrxEmM?usp=drive_link
 ## 4. Instructions for User
