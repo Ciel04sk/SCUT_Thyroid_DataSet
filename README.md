@@ -17,6 +17,7 @@ Python 3.8.15
 This code requirements are stated at requirements.txt
 
 ## 3. Demo
+![Image text](2.jpg)
 ### 1. Dataset introduction
 With the approval of the ethical review committee, we recruited of several groups of volunteers. Firstly, we employed FARUS system to autonomously scan 
 70 volunteers (SCUTG6K). To address the limitations of handheld US equipment in accurately diagnosing nodules, we opted to employ portable US equipment 
