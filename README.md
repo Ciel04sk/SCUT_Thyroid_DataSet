@@ -1,36 +1,51 @@
-# SCUT_Thyroid_DataSet
-## A Fully Autonomous Robotic Ultrasound System (FARUS) for Thyroid Scanning
-### Introduction: 
-The current thyroid ultrasound relies heavily on the experience of the sonographer and radiologist,
-which would be physically and cog- nitively exhausting. Here we report a novel fully autonomous robotic ultrasound 
-system (FARUS) that can scan thyroid regions without human assistance. In this application,
-human skeleton point recog- nition, image segmentation, and force feedback are used to solve the 
-problem of thyroid localization. The orientation of the ultra- sound probe is adjusted via Bayesian optimization. 
-By using FARUS, both transverse and longitudinal scanning of thyroid tissue can be performed, as well as real-time 
-thyroid nodule detection with arti- ficial intelligence (AI) algorithms. Experimental results on human participants 
-demonstrate that FARUS can perform high-quality ultra- sound scans in comparison with manual scans obtained by clinicians.
+# A Fully Autonomous Robotic Ultrasound System for Thyroid Scanning
+![Image text](images/1.png)
+This code accompanies the paper "A Fully Autonomous Robotic Ultrasound System for Thyroid Scanning".
+# Abstract:
+The current thyroid ultrasound relies heavily on the experience and skills of the sonographer and the expertise of the radiologist, 
+and the process is physically and cognitively exhausting. In this paper, we report a novel fully autonomous robotic ultrasound system (FARUS),
+which is able to scan thyroid regions without human assistance and identify malignant nodules. In this system, human skeleton point recognition, 
+reinforcement learning, and force feedback are used to deal with the difficulties in locating thyroid targets. The orientation of the ultrasound 
+probe is adjusted dynamically via Bayesian optimization. Experimental results on volunteering participants demonstrated that FARUS can perform 
+high-quality ultrasound scans, close to manual scans obtained by clinicians, may detect thyroid nodules and can provide data on nodule 
+characteristics for ACR TI-RADS calculation.
 
-## Dataset
-1. Thyroid Gland Ultrasound Dataset
-   This dataset comprises 6k thyroid-gland images and masks obtained from a cohort of 70 young college students, utilizing the FARUS system with handheld probes for data collection.
-   The compressed dataset is also available via https://drive.google.com/file/d/1CrghGB2dpLWcKSQQBzFGRXc6xI3WloEj/view?usp=sharing
-   
-   This dataset comprises 2k thyroid-gland images and masks obtained from a cohort of 30 elderly individuals, utilizing the FARUS system with portable probes for data collection.
-   https://drive.google.com/file/d/1TG8QrNmjWkvE6euUzaxOcgbqNikcjd3h/view?usp=sharing
+## 1. System Requirments
+Python 3.8.15
 
-   
-3. Thyroid Nodule Dataset
+## 2. Install Guide
+This code requirements are stated at requirements.txt
 
-   It will be released shortly
+## 3. Demo
+Dataset:
 
-## Cite
-if you find this work useful in your research or use this dataset in your work, please consider citing the following paper:
+## 4. Instructions for User
 
-@article{su2023fully,
-  title={A Fully Autonomous Robotic Ultrasound System for Thyroid Scanning},
-  author={Su, Kang and Liu, Jingwei and Ren, Xiaoqi and Huo, Yingxiang and Du, Guanglong and Zhao, Wei and Wang, Xueqian and Liang, Bin and Li, Di and Liu, Peter},
-  year={2023}
-}
+## 5. Citation
+
+## 6. Lisence
+MIT License
+
+Copyright (c) 2023 Kang Su
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 
 
