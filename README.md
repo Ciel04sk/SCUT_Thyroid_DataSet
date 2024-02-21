@@ -25,7 +25,19 @@ to gather additional sets of data (SCUTG2K).
 #### Thyroid Dataset(SCUTG8K)
 SCUTG8K can be obtained via https://drive.google.com/drive/folders/1z-n69dk_ANT3ZstAhpjBA2SFz2DrxEmM?usp=drive_link
 ## 4. Instructions for User
+#### RL demo
+dependecy requirements:
+gym: v_0.21.0
+stable_baselines3: v
+ray
 
+
+
+Training:
+run thyroid_glanod_dqn_cjp_train.py file
+
+Predict:
+run thyroid_glanod_dqn_predict_patient.py file
 ## 5. Citations
 If you find our work useful or our work gives you any insights, please cite:
 Su, K., Liu, J., Ren, X., Huo, Y., Du, G., Zhao, W., ... & Liu, P. (2023). A Fully Autonomous Robotic Ultrasound System for Thyroid Scanning.
